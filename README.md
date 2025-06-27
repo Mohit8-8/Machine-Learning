@@ -27,12 +27,6 @@ This repo documents my structured learning path as I dive deeper into ML concept
 
 > More algorithms and techniques will be added soon! Stay tuned 👀
 
-## 🛠️ Tech Stack
-
-- Python 
-- Colab Notebook 
-- NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn and more
-
 ## 🤝 Contributions
 
 While this repo is mostly my personal learning journey, feel free to open issues, suggest improvements, or star ⭐ the project if you found it helpful!
